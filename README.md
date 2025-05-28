@@ -2,6 +2,8 @@
 
 ---
 
+**Shout out to the legend that donated, I will be in contact soon. I will add a shoutout here if you want + more just DM me if you haven't already!**
+
 Working on organizing this into a [wiki](https://github.com/JPShag/PCILeech-DMA-Firmware/wiki/Introduction). Help is welcomed!
 
 ----
