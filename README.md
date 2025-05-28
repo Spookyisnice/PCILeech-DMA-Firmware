@@ -524,6 +524,12 @@ Extracting detailed information from the donor device is essential for accurate 
     *   Compile all the extracted information into a well-organized document (e.g., a Markdown file, a `.txt` file, or an Excel spreadsheet).
     *   Label each section clearly for easy reference during firmware customization.
 
+
+
+https://github.com/user-attachments/assets/0f192c29-d1ad-4e68-aa21-607976037218
+
+
+
 ### **5.2 Extracting and Recording Device Attributes**
 
 After capturing the data, it's crucial to understand the significance of each attribute and ensure they've been accurately documented for successful emulation.
