@@ -8,12 +8,12 @@ Use this checklist to guide you through the firmware creation.
 
 Collect the following information from the donor PCIe device:
 
-- [ ] **Device ID** (`0xXXXX`)
-- [ ] **Vendor ID** (`0xYYYY`)
-- [ ] **Subsystem ID** (`0xZZZZ`)
-- [ ] **Subsystem Vendor ID** (`0xWWWW`)
-- [ ] **Revision ID** (`0xRR`)
-- [ ] **Class Code** (`0xCCCCCC`)
+- [x] **Device ID** (`0x818B`)
+- [x] **Vendor ID** (`0x10EC`)
+- [x] **Subsystem ID** (`0x8196`)
+- [x] **Subsystem Vendor ID** (`0x10EC`)
+- [x] **Revision ID** (`0x00`)
+- [x] **Class Code** (`0x028000`)
 - [ ] **Base Address Registers (BARs) Configuration**:
   - [ ] **BAR0** to **BAR5** sizes, types (Memory or I/O), prefetchable status
 - [ ] **Capabilities**:
